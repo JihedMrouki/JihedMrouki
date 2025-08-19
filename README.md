@@ -24,7 +24,8 @@
 
 <table>
 <tr>
-<td width="55%">
+<!-- LEFT COLUMN -->
+<td width="55%" valign="top">
 
 ### 🌍 Highlight Project: **Smoov**
 **Smoov** is more than just a travel app — it’s your cultural companion anywhere in the world.  
@@ -37,33 +38,23 @@ It helps you:
 ✨ Our motto: **See the unseen, experience the untold!**  
 
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/ygJYC7gOcC1dj490jSdSMeDNUDaeUokYHF6sZsw-2Qtym0TvdmeSRLD2UjfDnMy4AQ=w5120-h2880-rw" alt="Smoov screenshot 1" width="200" />
-  <img src="https://play-lh.googleusercontent.com/XdKTz6tFSXNSIqiUQIGAar46SZQVjLXT9TFzfr3xmTm7BiTuhkjR9XLccevE5NFJ1ROM=w5120-h2880-rw" alt="Smoov screenshot 2" width="200" />
-  <img src="https://play-lh.googleusercontent.com/o2xwrEgMvmgaRuvuPaUkXfZckR6Mg7fx1Dlyp7Z71LcquKy4iC2PqRgs_w_95CIpeZty=w5120-h2880-rw" alt="Smoov screenshot 3" width="200" />
-  <img src="https://play-lh.googleusercontent.com/2lkzalYv0uI4JfrGhPWuBIXmNShGePF9p_eqaikdZaJPkgaHsUTfT9PoAeYRAM3AGf9M=w5120-h2880-rw" alt="Smoov screenshot 4" width="200" />
+  <img src="https://play-lh.googleusercontent.com/ygJYC7gOcC1dj490jSdSMeDNUDaeUokYHF6sZsw-2Qtym0TvdmeSRLD2UjfDnMy4AQ=w5120-h2880-rw" alt="Smoov screenshot 1" width="180" />
+  <img src="https://play-lh.googleusercontent.com/XdKTz6tFSXNSIqiUQIGAar46SZQVjLXT9TFzfr3xmTm7BiTuhkjR9XLccevE5NFJ1ROM=w5120-h2880-rw" alt="Smoov screenshot 2" width="180" />
+  <img src="https://play-lh.googleusercontent.com/o2xwrEgMvmgaRuvuPaUkXfZckR6Mg7fx1Dlyp7Z71LcquKy4iC2PqRgs_w_95CIpeZty=w5120-h2880-rw" alt="Smoov screenshot 3" width="180" />
 </p>
 
----
-
-### 🔥 My Projects
-- 📱 <a href="https://github.com/placeholder">**Smoov**</a> – Travel & cultural content companion.  
-- 💼 <a href="https://github.com/placeholder">**Masroufi**</a> – Student-focused job platform in Tunisia.  
-- 🤖 <a href="https://github.com/placeholder">**Car Accident Analysis & Prediction**</a> – AI project predicting road accidents.  
-- 🌐 <a href="https://github.com/placeholder">**Flutter Web Docs**</a> – Docs website built with Flutter Web.  
-- 🎨 <a href="https://github.com/placeholder">**UI/UX Showcase**</a> – Flutter UI experiments & animations.  
-
-👉 Check out more in my [Portfolio](https://github.com/JihedMrouki?tab=repositories)
-
 </td>
-<td width="45%" align="center">
+
+<!-- RIGHT COLUMN -->
+<td width="45%" valign="top" align="center">
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JihedMrouki&theme=tokyonight" alt="streak stats" width="350" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JihedMrouki&theme=tokyonight" alt="streak stats" width="380"/>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JihedMrouki&layout=compact&theme=tokyonight" alt="languages" width="350" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JihedMrouki&layout=compact&theme=tokyonight" alt="languages" width="380"/>
 </p>
 
 </td>
@@ -72,9 +63,18 @@ It helps you:
 
 ---
 
+### 🔥 More Projects
+- 📱 <a href="https://github.com/placeholder">**Smoov**</a> – Travel & cultural content companion.  
+- 💼 <a href="https://github.com/placeholder">**Masroufi**</a> – Student-focused job platform in Tunisia.  
+- 🤖 <a href="https://github.com/placeholder">**Car Accident Analysis & Prediction**</a> – AI project predicting road accidents.  
+- 🌐 <a href="https://github.com/placeholder">**Flutter Web Docs**</a> – Docs website built with Flutter Web.  
+- 🎨 <a href="https://github.com/placeholder">**UI/UX Showcase**</a> – Flutter UI experiments & animations.  
+
+👉 Check out more in my [Portfolio](https://github.com/JihedMrouki?tab=repositories)
+
+---
+
 <div align="center">
   <h2>🐍 Snek 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://github.com/JihedMrouki/JihedMrouki/blob/output/github-contribution-grid-snake.svg" />
-  <br><br><br>
 </div>
