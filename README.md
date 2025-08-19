@@ -64,7 +64,15 @@ It helps you:
 ---
 
 ### 🔥 More Projects
-- 📱 <a href="https://github.com/placeholder">**Smoov**</a> – Travel & cultural content companion.  
+- 📱 <a href="https://smoov-app.com/">**Smoov**</a> – Travel & cultural content companion.  
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=tn.com.value.culturetech">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="150" alt="Get it on Google Play" />
+  </a>
+  <a href="https://apps.apple.com/us/app/smoov-my-travel-companion/id6480924972">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Download_on_the_App_Store_Badge.svg" width="150" alt="Download on the App Store" />
+  </a>
+</p>
 - 💼 <a href="https://github.com/placeholder">**Masroufi**</a> – Student-focused job platform in Tunisia.  
 - 🤖 <a href="https://github.com/placeholder">**Car Accident Analysis & Prediction**</a> – AI project predicting road accidents.  
 - 🌐 <a href="https://github.com/placeholder">**Flutter Web Docs**</a> – Docs website built with Flutter Web.  
