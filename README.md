@@ -38,9 +38,9 @@ It helps you:
 ✨ Our motto: **See the unseen, experience the untold!**  
 
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/ygJYC7gOcC1dj490jSdSMeDNUDaeUokYHF6sZsw-2Qtym0TvdmeSRLD2UjfDnMy4AQ=w5120-h2880-rw" alt="Smoov screenshot 1" width="180" />
-  <img src="https://play-lh.googleusercontent.com/XdKTz6tFSXNSIqiUQIGAar46SZQVjLXT9TFzfr3xmTm7BiTuhkjR9XLccevE5NFJ1ROM=w5120-h2880-rw" alt="Smoov screenshot 2" width="180" />
-  <img src="https://play-lh.googleusercontent.com/o2xwrEgMvmgaRuvuPaUkXfZckR6Mg7fx1Dlyp7Z71LcquKy4iC2PqRgs_w_95CIpeZty=w5120-h2880-rw" alt="Smoov screenshot 3" width="180" />
+  <img src="https://play-lh.googleusercontent.com/ygJYC7gOcC1dj490jSdSMeDNUDaeUokYHF6sZsw-2Qtym0TvdmeSRLD2UjfDnMy4AQ=w5120-h2880-rw" alt="Smoov screenshot 1" width="170" />
+  <img src="https://play-lh.googleusercontent.com/XdKTz6tFSXNSIqiUQIGAar46SZQVjLXT9TFzfr3xmTm7BiTuhkjR9XLccevE5NFJ1ROM=w5120-h2880-rw" alt="Smoov screenshot 2" width="170" />
+  <img src="https://play-lh.googleusercontent.com/o2xwrEgMvmgaRuvuPaUkXfZckR6Mg7fx1Dlyp7Z71LcquKy4iC2PqRgs_w_95CIpeZty=w5120-h2880-rw" alt="Smoov screenshot 3" width="170" />
 </p>
 
 </td>
