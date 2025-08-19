@@ -46,25 +46,24 @@ It helps you:
 ---
 
 ### 🔥 My Projects
-- 📱 <a href="https://github.com/placeholder">**Smoov**</a> – A travel & cultural content companion that helps you discover hidden gems and untold stories around the world.  
-- 💼 <a href="https://github.com/placeholder">**Masroufi**</a> – A mobile platform helping students find flexible, short-term jobs in Tunisia.  
-- 🤖 <a href="https://github.com/placeholder">**Car Accident Analysis & Prediction**</a> – ML project analyzing and predicting accidents using CRISP-DM methodology.  
-- 🌐 <a href="https://github.com/placeholder">**Flutter Web Docs**</a> – A documentation site built with Flutter Web inspired by VGV Engineering.  
-- 🎨 <a href="https://github.com/placeholder">**UI/UX Showcase**</a> – A collection of modern Flutter UI experiments and animations.  
+- 📱 <a href="https://github.com/placeholder">**Smoov**</a> – Travel & cultural content companion.  
+- 💼 <a href="https://github.com/placeholder">**Masroufi**</a> – Student-focused job platform in Tunisia.  
+- 🤖 <a href="https://github.com/placeholder">**Car Accident Analysis & Prediction**</a> – AI project predicting road accidents.  
+- 🌐 <a href="https://github.com/placeholder">**Flutter Web Docs**</a> – Docs website built with Flutter Web.  
+- 🎨 <a href="https://github.com/placeholder">**UI/UX Showcase**</a> – Flutter UI experiments & animations.  
 
 👉 Check out more in my [Portfolio](https://github.com/JihedMrouki?tab=repositories)
-
 
 </td>
 <td width="45%" align="center">
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JihedMrouki&theme=tokyonight" alt="streak stats" width="350" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JihedMrouki&theme=tokyonight" alt="streak stats" width="350" height="180"/>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JihedMrouki&layout=compact&theme=tokyonight" alt="languages" width="350" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JihedMrouki&layout=compact&theme=tokyonight" alt="languages" width="350" height="180"/>
 </p>
 
 </td>
