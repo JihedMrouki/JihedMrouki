@@ -54,7 +54,7 @@ With Smoov, you’ll experience stories in motion and feel the culture in emotio
   <a href="https://play.google.com/store/apps/details?id=your.app.package" target="_blank" rel="noopener noreferrer" style="margin:0 8px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="160" alt="Get it on Google Play" />
   </a>
-  <a href="https://apps.apple.com/app/idXXXXXXXXX" target="_blank" rel="noopener noreferrer" style="margin:0 8px;">
+  <a href="https://apps.apple.com/app/id6480924972" target="_blank" rel="noopener noreferrer" style="margin:0 8px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Download_on_the_App_Store_Badge.svg" width="160" alt="Download on the App Store" />
   </a>
 </p>
@@ -62,7 +62,7 @@ With Smoov, you’ll experience stories in motion and feel the culture in emotio
 ---
 
 ### 🔥 More Projects
-- 📱 <a href="https://github.com/placeholder" target="_blank" rel="noopener noreferrer"><b>Smoov</b></a> – Travel & cultural content companion.  
+- 📱 <a href="https://smoov-app.com/" target="_blank" rel="noopener noreferrer"><b>Smoov</b></a> – Travel & cultural content companion.  
 - 💼 <a href="https://github.com/placeholder" target="_blank" rel="noopener noreferrer"><b>Masroufi</b></a> – Student-focused job platform in Tunisia.  
 - 🤖 <a href="https://github.com/placeholder" target="_blank" rel="noopener noreferrer"><b>Car Accident Analysis & Prediction</b></a> – AI project predicting road accidents.  
 - 🌐 <a href="https://github.com/placeholder" target="_blank" rel="noopener noreferrer"><b>Flutter Web Docs</b></a> – Docs website built with Flutter Web.  
