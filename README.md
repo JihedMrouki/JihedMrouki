@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Jihed Mrouki</h1>
-<h3 align="center">Flutter Developer | Flutter & Mobile Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Jihed</h1>
+<h3 align="center">Flutter Developer | Flutter & Mobile Enthusiast | GDG Orgainzer </h3>
 
 <p align="center">
   <a href="https://twitter.com/jihedmroukidev" target="_blank" rel="noopener noreferrer">
@@ -19,7 +19,7 @@
 
 - 🚀 Passionate **Flutter Developer** with experience in mobile & web apps.
 - 👯 Open to collaboration on **Flutter, Dart, Spring Boot, GraphQL & AI projects**.
-- 🐱 Fun fact: I love cats.
+- 🐱 I love cats.
 
 ---
 
