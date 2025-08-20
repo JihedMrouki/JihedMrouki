@@ -16,13 +16,15 @@
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Passionate **Flutter Developer** with experience in mobile & web apps.  
-- 👯 Open to collaboration on **Flutter, Dart, Spring Boot, GraphQL & AI projects**.  
-- 🐱 Fun fact: I love cats.  
+
+- 🚀 Passionate **Flutter Developer** with experience in mobile & web apps.
+- 👯 Open to collaboration on **Flutter, Dart, Spring Boot, GraphQL & AI projects**.
+- 🐱 Fun fact: I love cats.
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <a href="https://github.com/JihedMrouki" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JihedMrouki&theme=tokyonight" alt="GitHub Streak" width="430"/>
@@ -35,6 +37,7 @@
 ---
 
 ### 🌍 Highlight Project: **Smoov**
+
 Smoov is your companion and a content platform for your travel and cultural visits, available anytime, anywhere in the world, and in a wide range of languages. We’ll guide you through the hidden corners of history and culture, uncovering the lesser-known stories that have shaped places over the years. **Our promise is simple: See the unseen, experience the untold!**
 
 With Smoov, you can discover relevant places and hidden gems around you, revealing the unique stories behind them.
@@ -54,19 +57,20 @@ With Smoov, you’ll experience stories in motion and feel the culture in emotio
   <a href="https://play.google.com/store/apps/details?id=your.app.package" target="_blank" rel="noopener noreferrer" style="margin:0 8px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="160" alt="Get it on Google Play" />
   </a>
-  <a href="https://apps.apple.com/app/id6480924972" target="_blank" rel="noopener noreferrer" style="margin:0 8px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Download_on_the_App_Store_Badge.svg" width="160" alt="Download on the App Store" />
-  </a>
+    <a href="https://apps.apple.com/us/app/smoov-my-travel-companion/id6480924972?itscg=30200&itsct=apps_box_badge&mttnsubad=6480924972" style="display: inline-block;">
+    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1750118400" alt="Download on the App Store" style="width: 246px; height: 82px; vertical-align: middle; object-fit: contain;" />
+    </a>
 </p>
 
 ---
 
 ### 🔥 More Projects
-- 📱 <a href="https://smoov-app.com/" target="_blank" rel="noopener noreferrer"><b>Smoov</b></a> – Travel & cultural content companion.  
-- 💼 <a href="https://github.com/placeholder" target="_blank" rel="noopener noreferrer"><b>Masroufi</b></a> – Student-focused job platform in Tunisia.  
-- 🤖 <a href="https://github.com/placeholder" target="_blank" rel="noopener noreferrer"><b>Car Accident Analysis & Prediction</b></a> – AI project predicting road accidents.  
-- 🌐 <a href="https://github.com/placeholder" target="_blank" rel="noopener noreferrer"><b>Flutter Web Docs</b></a> – Docs website built with Flutter Web.  
-- 🎨 <a href="https://github.com/placeholder" target="_blank" rel="noopener noreferrer"><b>UI/UX Showcase</b></a> – Flutter UI experiments & animations.  
+
+- 📱 <a href="https://smoov-app.com/" target="_blank" rel="noopener noreferrer"><b>Smoov</b></a> – Travel & cultural content companion.
+- 💼 <a href="https://github.com/placeholder" target="_blank" rel="noopener noreferrer"><b>Masroufi</b></a> – Student-focused job platform in Tunisia.
+- 🤖 <a href="https://github.com/placeholder" target="_blank" rel="noopener noreferrer"><b>Car Accident Analysis & Prediction</b></a> – AI project predicting road accidents.
+- 🌐 <a href="https://github.com/placeholder" target="_blank" rel="noopener noreferrer"><b>Flutter Web Docs</b></a> – Docs website built with Flutter Web.
+- 🎨 <a href="https://github.com/placeholder" target="_blank" rel="noopener noreferrer"><b>UI/UX Showcase</b></a> – Flutter UI experiments & animations.
 
 👉 Check out more in my <a href="https://github.com/JihedMrouki?tab=repositories" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
