@@ -53,14 +53,24 @@ With Smoov, you’ll experience stories in motion and feel the culture in emotio
   <img src="https://play-lh.googleusercontent.com/2lkzalYv0uI4JfrGhPWuBIXmNShGePF9p_eqaikdZaJPkgaHsUTfT9PoAeYRAM3AGf9M=w5120-h2880-rw" alt="Smoov screenshot 4" width="200" />
 </p>
 
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=your.app.package" target="_blank" rel="noopener noreferrer" style="margin:0 8px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="160px" alt="Get it on Google Play" />
+<p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+
+  <!-- Google Play -->
+  <a href="https://play.google.com/store/apps/details?id=your.app.package" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" 
+         alt="Get it on Google Play" 
+         style="height: 60px;"/>
   </a>
-    <a href="https://apps.apple.com/us/app/smoov-my-travel-companion/id6480924972?itscg=30200&itsct=apps_box_badge&mttnsubad=6480924972" style="display: inline-block;">
-    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1750118400" alt="Download on the App Store" style="width: 160px; height: 82px; vertical-align: middle; object-fit: contain;" />
-    </a>
+
+  <!-- App Store -->
+  <a href="https://apps.apple.com/us/app/smoov-my-travel-companion/id6480924972" target="_blank" rel="noopener noreferrer">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" 
+         alt="Download on the App Store" 
+         style="height: 60px;"/>
+  </a>
+
 </p>
+
 
 ---
 
