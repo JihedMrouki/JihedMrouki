@@ -26,9 +26,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/JihedMrouki" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JihedMrouki&theme=tokyonight" alt="GitHub Streak" width="430"/>
-  </a>
+    <!-- <a href="https://wakatime.com/@jihedmrouki">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@jihedmrouki&theme=tokyonight" 
+         alt="WakaTime stats" width="430"/>
+  </a> -->
   <a href="https://github.com/JihedMrouki?tab=repositories" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JihedMrouki&layout=compact&theme=tokyonight" alt="Top Languages" width="430"/>
   </a>
