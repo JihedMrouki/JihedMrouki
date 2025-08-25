@@ -86,8 +86,9 @@ With Smoov, you’ll experience stories in motion and feel the culture in emotio
 👉 Check out more in my <a href="https://github.com/JihedMrouki?tab=repositories" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
 ---
-
+  <!-- 
 <div align="center">
   <h2>🐍 Snek 🐍</h2>
   <img alt="snake eating my contributions" src="https://github.com/JihedMrouki/JihedMrouki/blob/output/github-contribution-grid-snake.svg" />
 </div>
+-->
