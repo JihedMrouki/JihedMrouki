@@ -57,7 +57,7 @@ With Smoov, you’ll experience stories in motion and feel the culture in emotio
 <p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
 
   <!-- Google Play -->
-  <a href="https://play.google.com/store/apps/details?id=your.app.package" target="_blank" rel="noopener noreferrer">
+  <a href="https://play.google.com/store/apps/details?id=tn.com.value.culturetech" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" 
          alt="Get it on Google Play" 
          style="height: 60px;"/>
